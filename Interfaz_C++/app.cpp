@@ -1,6 +1,8 @@
 #include "app.hpp"
 
-
+// Declaracion de funciones
+void funcion_1();
+void funcion_2();
 
 int main() {
 
