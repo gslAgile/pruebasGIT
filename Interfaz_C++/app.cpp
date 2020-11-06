@@ -3,7 +3,10 @@
 // Declaracion de funciones
 void funcion_1();
 void funcion_2();
+void funcion_3();
+void funcion_4();
 
+// Funcion principal
 int main() {
 
 	/* Archivos de importacion de RDPG: */
@@ -12,6 +15,9 @@ int main() {
 	string n_mIR = "../Caso_Aplicacion/mIR.txt";
 	string n_mIRe = "../Caso_Aplicacion/mIRe.txt";// = "mIRe.txt";
 	string n_vMI = "../Caso_Aplicacion/vMI.txt";
+
+	// Funciones de configuraciones
+	funcion_4();
 
 	//RDPG red("Red de Petri", 6, 4);
 	//RDPG *red = new RDPG("Red de Petri", 1000, 1000);
