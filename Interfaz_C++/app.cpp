@@ -161,3 +161,8 @@ int main() {
 
 	return 0;
 }
+
+
+void funcion_1() {
+	// Definir cambios de funcion 1
+}
