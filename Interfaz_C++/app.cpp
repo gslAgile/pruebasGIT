@@ -186,3 +186,9 @@ void funcion_7() {
 void funcion_8() {
 	return true;
 }
+
+void funcion_9() {
+	/* Implementar TODO aqui*/
+	
+	return true;
+}
