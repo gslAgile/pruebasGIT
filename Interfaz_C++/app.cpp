@@ -182,7 +182,3 @@ void funcion_6() {
 void funcion_7() {
 	return true;
 }
-
-void funcion_8() {
-	return true;
-}
