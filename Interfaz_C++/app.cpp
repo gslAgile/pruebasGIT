@@ -169,3 +169,16 @@ int main() {
 
 	return 0;
 }
+
+/** Implementraciones */
+void funcion_5() {
+	return true;
+}
+
+void funcion_6() {
+	return false;
+}
+
+void funcion_7() {
+	return true;
+}
